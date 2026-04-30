@@ -40,8 +40,9 @@ pip install -r requirements.txt
 
 ### Evaluation Metrics
 Metrics used: 
-    1) F1 Score
-    2) ROC-AUC
+    1) MAE
+    2) RMSE
+    3) R2 SCORE
 ### Technologies Used
     1) Python
     2) Pandas, NumPy
